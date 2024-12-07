@@ -1,0 +1,6 @@
+pandas
+requests
+matplotlib
+seaborn
+python-dotenv
+uv
